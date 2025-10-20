@@ -1,16 +1,18 @@
-## Hi there 👋
+### 👋 ¡Hola! Soy [Fernangel7]
 
-<!--
-**Fernangel7/Fernangel7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 Desarrollador/a apasionado/a por la tecnología, el código limpio y las soluciones eficientes.  
+🚀 Actualmente trabajando / aprendiendo sobre: Node.js, Python, TypeScript, etc.  
+📚 Interesado/a en: desarrollo web, inteligencia artificial, automatización y software libre.  
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías y herramientas:
+- Lenguajes: JavaScript | Python | TypeScript
+- Frameworks: Node.js | Express | Vue | Flask
+- Bases de datos: MySQL | PostgreSQL
+- Herramientas: Git | GitHub | VS Code | Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 Conéctate conmigo:
+[LinkedIn](https://linkedin.com/in/) | [Twitter](https://twitter.com/) | [Portafolio]()
+
+---
+
+> "El mejor código es aquel que entiendes después de un mes sin verlo." - Anónimo
