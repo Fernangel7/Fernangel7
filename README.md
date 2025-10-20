@@ -11,7 +11,7 @@
 - Herramientas: Git | GitHub | VS Code | Linux
 
 ### 🌍 Conéctate conmigo:
-[LinkedIn](https://linkedin.com/in/) | [Twitter](https://twitter.com/) | [Portafolio]()
+[Discord DM](https://discord.com/users/741476152048091164) | [Portafolio]()
 
 ---
 
